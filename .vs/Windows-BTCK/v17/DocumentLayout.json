@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C424C7F6-CC1F-49C7-A907-581C6B1B497F}|BUS\\BUS.csproj|c:\\users\\thieu\\source\\repos\\windows-btck\\bus\\lopservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C424C7F6-CC1F-49C7-A907-581C6B1B497F}|BUS\\BUS.csproj|solutionrelative:bus\\lopservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC1E498-95AF-4F81-96E7-67F7FF057F42}|GUI\\GUI.csproj|c:\\users\\thieu\\source\\repos\\windows-btck\\gui\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1E498-95AF-4F81-96E7-67F7FF057F42}|GUI\\GUI.csproj|solutionrelative:gui\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC1E498-95AF-4F81-96E7-67F7FF057F42}|GUI\\GUI.csproj|c:\\users\\thieu\\source\\repos\\windows-btck\\gui\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFC1E498-95AF-4F81-96E7-67F7FF057F42}|GUI\\GUI.csproj|solutionrelative:gui\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC1E498-95AF-4F81-96E7-67F7FF057F42}|GUI\\GUI.csproj|c:\\users\\thieu\\source\\repos\\windows-btck\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1E498-95AF-4F81-96E7-67F7FF057F42}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C424C7F6-CC1F-49C7-A907-581C6B1B497F}|BUS\\BUS.csproj|c:\\users\\thieu\\source\\repos\\windows-btck\\bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C424C7F6-CC1F-49C7-A907-581C6B1B497F}|BUS\\BUS.csproj|solutionrelative:bus\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:16:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LopServices.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\BUS\\LopServices.cs",
+              "RelativeDocumentMoniker": "BUS\\LopServices.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\BUS\\LopServices.cs",
+              "RelativeToolTip": "BUS\\LopServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:42:06.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\BUS\\StudentService.cs",
+              "RelativeDocumentMoniker": "BUS\\StudentService.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\BUS\\StudentService.cs",
+              "RelativeToolTip": "BUS\\StudentService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wCkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:38:29.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\GUI\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\GUI\\frmSinhVien.cs",
+              "RelativeToolTip": "GUI\\frmSinhVien.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAYwMAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:37:19.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\GUI\\frmSinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\frmSinhVien.cs",
+              "ToolTip": "C:\\Users\\thieu\\source\\repos\\Windows-BTCK\\GUI\\frmSinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\frmSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:07:56.397Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
